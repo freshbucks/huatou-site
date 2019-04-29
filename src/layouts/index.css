@@ -1,0 +1,38 @@
+
+.normal {
+  /*font-family: Georgia, sans-serif;*/
+}
+
+.footer {
+  color: #999999;
+  background: #001529;
+}
+
+.footer .inner {
+  padding: 48px 24px;
+}
+
+.footer .inner a {
+  display: block;
+  color: #999999;
+  margin-bottom: 0.5em;
+}
+
+.footer .inner a:hover {
+  color: #f7f7f7;
+}
+
+.footer .inner p {
+  font-weight: 400;
+  color: #f7f7f7;
+  margin-bottom: 1.5em;
+}
+
+.copyright {
+  text-align: center;
+  border-top: 1px solid #666666;
+}
+
+.copyright :global(.xl-padding){
+  padding-top: 24px;
+}

@@ -1,0 +1,19 @@
+
+html, body, #root {
+  height: 100%;
+  font-family: 'Microsoft Yahei','PingFang SC','Source Han Sans CN';
+  font-size: 12px;
+}
+
+body {
+  margin: 0;
+}
+
+.xl-container {
+  width: 1210px;
+  margin: 0 auto;
+}
+
+.xl-padding {
+  padding: 0 24px;
+}
